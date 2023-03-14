@@ -3,6 +3,9 @@ uuid = "118282d6-3134-473f-a7d0-9c52f5e2a9d2"
 authors = ["singularitti <singularitti@outlook.com> and contributors"]
 version = "1.0.0-DEV"
 
+[deps]
+QuantumESPRESSOBase = "51b62caa-b28f-11e9-38c2-1f67cb498e05"
+
 [compat]
 julia = "1"
 
