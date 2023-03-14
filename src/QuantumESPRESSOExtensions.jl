@@ -1,5 +1,5 @@
 module QuantumESPRESSOExtensions
 
-# Write your package code here.
+include("parameters.jl")
 
 end
